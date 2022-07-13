@@ -31,7 +31,7 @@ Now you can go and play with it as you wish :smile:
 👤 ** Faranosh Amini **
 
 - GitHub: [@FaranoshAmini](https://github.com/FaranoshAmini)
-- LinkedIn: [Faranosh_Amini](https://linkedin.com/in/alan-luqman-61623b17a](https://www.linkedin.com/in/faranosh-amini-9b925b23a/)
+- LinkedIn: [@Faranosh_Amini](https://www.linkedin.com/in/faranosh-amini-9b925b23a/)
 - Twitter: [@Faranosh_Amini](https://twitter.com/Faranosh_Amini) 
 
 
