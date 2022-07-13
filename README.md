@@ -9,7 +9,6 @@
 - JavaScript
 - Webpack
 
-
 ### Get Started
 To get a local copy of this exercice, Please follow these simple example steps.
 
@@ -51,6 +50,8 @@ Give a ⭐️ if you like this project!
 - Inspiration
 - etc
 
+
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
+
